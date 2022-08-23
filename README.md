@@ -1,6 +1,5 @@
 # Hackathon_Skillfactory_TeplitsaLab
-NGOs' data analytics
-Identification of vulnerable populations
+NGOs' data analytics / Identification of vulnerable populations
 
 ## Tasks
 1. To cluster the regions of the Russian Federation and determine which of them are most in need of assistance to the poor / disadvantaged segments of the population.
